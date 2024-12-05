@@ -46,8 +46,3 @@ Want to improve the game? Follow these steps:
 2. **Clone** your fork to your local machine.
 3. Make your **changes** and test them locally.
 4. **Create a pull request** with a detailed description of your changes.
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**. For more details, check the [LICENSE file](LICENSE.txt).
