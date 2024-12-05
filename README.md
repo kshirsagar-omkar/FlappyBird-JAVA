@@ -26,7 +26,7 @@ The game is ready to play! Download the compiled JAR file below:
 ### How to Run
 1. Make sure **Java** is installed on your system. If not, [download it here](https://www.oracle.com/java/technologies/javase-downloads.html).
 2. Download the `FlappyBird.jar` file from the [releases folder](releases/FlappyBird.jar).
-3. Open a **terminal** (or **command prompt**) and navigate to the directory where the JAR file is located.
+3. Open a **terminal** (or **command prompt**) and navigate to the directory where the JAR file is located (the `releases` folder).
 4. Run the game with the following command:
    ```bash
    java -jar FlappyBird.jar
