@@ -34,13 +34,6 @@ The game is ready to play! Download the compiled JAR file below:
 
 ---
 
-## 🖼️ Screenshots
-Here’s how the game looks in action! 
-
-![Flappy Bird Screenshot](https://your-image-link.com)
-
----
-
 ## 📚 Javadoc Documentation
 Detailed documentation for the project is available. Explore the JavaDoc here: [JavaDoc Link](docs/javadoc).
 
@@ -57,22 +50,4 @@ Want to improve the game? Follow these steps:
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
-
----
-
-## 🙌 Acknowledgments
-Special thanks to the **Java community** for inspiring this project, and to all the contributors for making it better!
-
----
-
-### **Why this is better:**
-1. **Title & Emojis**: Makes the project more appealing and fun.
-2. **Overview Section**: Provides a quick summary of the project.
-3. **Features**: Highlights the best parts of the game.
-4. **Download Instructions**: Guides users on how to get started quickly.
-5. **Screenshots**: Adds visual appeal (replace the image link with your screenshot URL).
-6. **Documentation Link**: Directs users to your JavaDoc documentation.
-7. **Contributing Section**: Encourages others to contribute and make the project better.
-8. **License**: Clarifies the licensing terms for open-source contributions.
-9. **Acknowledgments**: Acknowledges the contribution of the Java community.
+This project is licensed under the **MIT License**. For more details, check the [LICENSE file](LICENSE).
