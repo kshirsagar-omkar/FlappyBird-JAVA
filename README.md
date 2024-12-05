@@ -50,4 +50,4 @@ Want to improve the game? Follow these steps:
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License**. For more details, check the [LICENSE file](LICENSE).
+This project is licensed under the **MIT License**. For more details, check the [LICENSE file](LICENSE.txt).
