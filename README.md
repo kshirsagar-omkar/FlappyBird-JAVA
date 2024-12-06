@@ -35,7 +35,7 @@ The game is ready to play! Download the compiled JAR file below:
 ---
 
 ## 📚 Javadoc Documentation
-Detailed documentation for the project is available. Explore the JavaDoc here: [JavaDoc Link](docs/javadoc).
+Detailed documentation for the project is available. Explore the JavaDoc here: [JavaDoc Link](https://kshirsagar-omkar.github.io/FlappyBird-JAVA/).
 
 ---
 
